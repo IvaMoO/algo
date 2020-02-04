@@ -1,8 +1,8 @@
 <?php
-$host = "remotemysql.com:3306";
-$dbname = "03uu8YOyKw"; //errores
-$user = "03uu8YOyKw"; //dank
-$pass = "vLYZDqbdqG"; //dank
+$host = "remotemysql.com:3306"; //DB version china
+$dbname = ""; 
+$user = ""; 
+$pass = "";
 
 
 try{
